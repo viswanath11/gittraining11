@@ -1,2 +1,2 @@
 bugs are resolved in production area
-bugs are resolved
+bugs are there in production enviornment
